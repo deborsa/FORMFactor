@@ -25,7 +25,7 @@ REPORT zformfactor.
 * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 * SOFTWARE.
 ********************************************************************************
-
+" New Test comment
 * todo, pre-FORM comments, another pass, leeloo multipass?
 
 DATA: gv_ok_code LIKE sy-ucomm.
